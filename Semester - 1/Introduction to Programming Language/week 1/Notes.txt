@@ -1,0 +1,18 @@
+Module - 3.5
+	problem - 6 #include <stdio.h>
+
+int main()
+{
+    int a, b;
+    printf("enter your numbers : ");
+    scanf("%d %d", &a, &b);
+
+    if (a + b == 100)                (single = why not allow)
+    {
+        printf("Yes");
+    }
+    else
+    {
+        printf("No");
+    }
+}
